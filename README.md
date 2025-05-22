@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web com mais de **5 anos de experiência**, especializado no desenvolvimento de sistemas e **integrações B2B**, **Fullstack**, **Sistemas: logística, e-commerce** e automações corporativas.
+Sou desenvolvedor web com mais de **5 anos de experiência**, especializado no desenvolvimento de **sistemas e integrações B2B**, **Fullstack**, **Sistemas: logística, e-commerce** e automações corporativas.
 
 Tenho domínio nas seguintes tecnologias:
 
